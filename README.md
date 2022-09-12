@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rogelio Lozano</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117cd13353f9a9319a00c3dff7358af091ad5d5b25&rid=giphy.gif&ct=g”>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lozanorogelio&label=Profile%20views&color=0e75b6&style=flat" alt="lozanorogelio" /> </p>
 
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lozanorogelio&show_icons=true&locale=en" alt="lozanorogelio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lozanorogelio&" alt="lozanorogelio" /></p>
-
