@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg”> -->
 
-- 🔭 I’m currently working on [creating a Crypto App](https://github.com/LozanoRogelio/React-Blog)
+- 🔭 I’m currently working on [Evo Gym](https://github.com/LozanoRogelio/GYMEVO)
 
 - 🌱 I’m currently learning **React**
 
