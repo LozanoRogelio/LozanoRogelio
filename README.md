@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Evo Gym](https://github.com/LozanoRogelio/GYMEVO)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java, PHP, and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LozanoRogelio](https://github.com/LozanoRogelio)
 
