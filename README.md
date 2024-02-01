@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rogelio Lozano</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Programmer & IT Professional</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg”> -->
 
-- 🔭 I’m currently working on [Evo Gym](https://github.com/LozanoRogelio/GYMEVO)
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- 🌱 I’m currently learning **Java, PHP, and React**
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-- 👨‍💻 All of my projects are available at [https://github.com/LozanoRogelio](https://github.com/LozanoRogelio)
-
-- 💬 Ask me about **my journey as a software developer.**
-
-- 📫 How to reach me **lozano.rogelio92@gmail.com**
-
-- ⚡ Fun fact **I only have one lung**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
